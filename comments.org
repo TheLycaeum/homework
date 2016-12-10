@@ -1,0 +1,5 @@
+* Fix the formatting in sq_tables.py
+  - The header separator is hard coded. Doesn't change when I pass in
+    different inputs.
+  - There are unnecessary newlines. 
+
